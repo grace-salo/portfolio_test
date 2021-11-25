@@ -1,7 +1,7 @@
 name: GI Cancer Education
 output_dir: '.'
 navbar:
-  title: GI Cancer Education
+  title: ~~ Title ~~
   left:
   - text: Header 1
     href: slides.html
