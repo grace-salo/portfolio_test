@@ -3,13 +3,13 @@ output_dir: '.'
 navbar:
   title: GI Cancer Education
   left:
-  - text: Slides & Reading
+  - text: Header 1
     href: slides.html
-  - text: YouTube
+  - text: Header 2
     href: https://www.youtube.com/channel/UC5Deez8jUMnLhcf72-cHA7Q
-  - text: Scripts
+  - text: Header 3
     href: scripts.html
-  - text: Video Map
+  - text: Header 4
     href: plan_overview.pdf
   right:
   - text: About
